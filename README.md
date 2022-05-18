@@ -1,4 +1,4 @@
-# Curso Mecanica Analitica - DanielRiaño
+# Curso Mecanica Analitica - Daniel Riaño
 Repositorio de Github correspondiente al curso de "Fundamentos de Mecanica Analitica" a cargo del profesor Daniel Isaac Mendez Riaño 
 alojado en la plataforma Edmodo.
 
