@@ -1,0 +1,11 @@
+{
+  "name": "CursoFundamentosMecanicaAnaliticaDanielRiaño",
+  "author": "AtomicIsaac12 (https://github.com/AtomicIsaac12)",
+  "description": "Repositorio de fórmulas para el Curso de Fundamentos de Mecánica Analitica de Daniel Riaño",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AtomicIsaac12/Curso_Mecanica_Analitica_Daniel_Riano",
+  "dependencies": {
+    "jquery": "3.5.1",
+    "katex": "0.12.0"
+  }
+}
